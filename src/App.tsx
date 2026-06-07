@@ -1,4 +1,4 @@
-import React, {  useState } from 'react';
+import React, { useState } from 'react';
 import './App.scss';
 // import { GoodsList } from './GoodsList';
 import * as goodsAPI from './api/goods';
